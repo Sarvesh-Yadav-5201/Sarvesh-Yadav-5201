@@ -26,7 +26,7 @@
 
 ### :man_technologist: About Me :
 
-- :telescope: Currently, pursuing a Masters in Astronomy and Astrophysics from Aryabhata Research Institute of Observational Sciences, India.
+- :telescope: Currently, pursuing a Masters degree in Astronomy and Astrophysics from Aryabhata Research Institute of Observational Sciences, India.
 
 - :dart: Have deep interset in Data Driven Science.
 
