@@ -26,13 +26,13 @@
 
 ### :man_technologist: About Me :
 
-- :telescope: Currently, I am pursuing a Masters in Astronomy and Astrophysics from Aryabhata Research Institute of Observational Sciences, India.
+- :telescope: Currently, pursuing a Masters in Astronomy and Astrophysics from Aryabhata Research Institute of Observational Sciences, India.
 
 - :dart: Have deep interset in Data Driven Science.
 
 - :seedling: Exploring Machine Learning and Artificial Intelligence domain.
 
-- :zap: In my free time, I solve problems on Leetcode to keep my basics in check and read tech articles .
+- :zap: In my free time, I solve problems on Leetcode to keep my basics in check and read tech articles.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sarvesh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarveshkyadav5201/)
 
